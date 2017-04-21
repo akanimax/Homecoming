@@ -27,7 +27,7 @@ Run command: <br>
 2) >>>>help //To view all the commands <br>
 <br>
 #####Description:<br>
-This application maintains a single hidden log file that contains all the metadata for the inserted files and the actual data in the FileSystem. The application is intended to provide the requirements for the scenarios mentioned in Mr. Ramesh's case.<br>
+This application maintains a single hidden log file that contains all the metadata for the inserted files and the actual data in the FileSystem. The application is intended to provide an insight into how the unix operating system works.<br>
 <br>
 Features:<br>
 1) Simple format of file storage in the fileSystem.<br>
